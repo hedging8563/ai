@@ -1,5 +1,15 @@
 # @ai-sdk/google
 
+## 4.0.11
+
+### Patch Changes
+
+- 96d40bc: Expand standalone Google `threshold` provider options into safety settings.
+- 0f93c57: feat (video): support video (not just image) reference inputs in `inputReferences` for reference-to-video generation
+- Updated dependencies [0f93c57]
+  - @ai-sdk/provider@4.0.3
+  - @ai-sdk/provider-utils@5.0.7
+
 ## 4.0.10
 
 ### Patch Changes
